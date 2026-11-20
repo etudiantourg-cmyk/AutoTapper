@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoTapper</string>
+    <string name="accessibility_description">Allows AutoTapper to perform taps when you enable it.</string>
+</resources>
